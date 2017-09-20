@@ -1,1 +1,1 @@
-# h181221.github.io
+# Github Page for opplastning av doc til workspace repoes
