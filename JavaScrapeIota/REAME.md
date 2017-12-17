@@ -1,1 +1,1 @@
-versjon 1.02
+versjon 1.03
